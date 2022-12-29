@@ -1,5 +1,5 @@
 Find more food reveiw data in folder find_more_data
-	Get more data to balance and increase samples in 2 class and upload in to (link github)'https://github.com/cuongprotector/Food-Comments-Sentiment-Analysis'
+	Get more data to balance and increase samples in 2 class
 include find_more_data.py,food_train.csv,more_food_cmt.csv,test.csv
 
 How to run the model to generate submission results:
